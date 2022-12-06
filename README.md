@@ -5,8 +5,7 @@
 [2,6,16,18,22,27]
 
 2. **Big-O gösterimini yazınız.**
-- - 
-O (n^2)
+O(n^2)
 
 3. **Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer?**
 Average Case
